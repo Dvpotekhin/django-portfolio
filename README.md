@@ -3,7 +3,7 @@
  
 GETTING STARTED
 
-<img src="/static/images/dj.png" width="700" height="350"/>
+<img src="/static/images/dj.PNG" width="700" height="350"/>
 
 
 1 - Install requirements pip install -r requirements.txt
