@@ -1,4 +1,7 @@
 # django-portfolio-dvpotekhin
+
+
+
  
 GETTING STARTED
 
@@ -11,8 +14,13 @@ python manage.py runserver
 http://127.0.0.1:8000/
 3 - Create superuser python manage.py createsuperuser
 
+
+
+
 GETTING STARTED WITH DOCKER
 
+
+<img src="resources/docker.png" width="200" height="50"/>
 
 Docker image:  dvpotekhin/catnip
 
