@@ -20,7 +20,7 @@ http://127.0.0.1:8000/
 GETTING STARTED WITH DOCKER
 
 
-<img src="/static/images/docker.png" width="1368" height="768"/>
+<img src="/static/images/docker.png" width="700" height="350"/>
 
 Docker image:  dvpotekhin/catnip
 
